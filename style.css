@@ -65,10 +65,12 @@ h2{font-size:7em;margin-left:0;}
         position: fixed;
         bottom: 0;
         width: 100%;
-        height: 50px;
-       margin-top: -50px;
-        padding-top:80px;
+        height: 45px;
+        padding-top:70px;
         background-image: url(img/ads.jpg);
+        background-position: top;
+        background-color: #d43601;
+        background-repeat: no-repeat;
       }
 .break{padding-top:40px;}}
 
