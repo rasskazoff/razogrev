@@ -61,7 +61,8 @@ h1{font-size:7em;padding:70px;}
 #content,#bottom{padding:60px 0 50px 0;}
 h2{font-size:7em;margin-left:0;}
 #footer{padding-top:80px;}
-        #footer1{
+.break{padding-top:40px;}}
+#footer1{
         position: fixed;
         bottom: 0;
         width: 100%;
@@ -72,5 +73,4 @@ h2{font-size:7em;margin-left:0;}
         background-color: #d43601;
         background-repeat: no-repeat;
       }
-.break{padding-top:40px;}}
 
