@@ -1,11 +1,11 @@
-body,html,img,div,h1,h2,p,li,iframe{margin:0;padding:0;border:0;cursor:default;font-family:Tahoma,Geneva,sans-serif;}
+body,html,img,div,h1,h2,p,li,iframe{margin:0;padding:0;border:0;font-family:Tahoma,Geneva,sans-serif;}
 body,html{width:100%;background-color:#fff;font-size:10px;}
 #a{text-decoration: none;}
 #header{position:relative;background-color:#00000d;width:100%;background:url(img/back.jpg) no-repeat;background-position:50% 50%;background-size:cover;overflow:hidden;padding-bottom:20px;}
 h1,.slogan{color:#fff;padding:30px 0;text-align:center;}
 h1{font-size:3em;font-weight:normal;}
 .slogan{font-size:1.6em;font-weight:bold;}
-.tel{display:block;position:relative;text-decoration:none;color:#00000d;background-color:#ff0;width:240px;margin:0 auto;text-align:center;padding:10px;font-size:2em;border-radius:25px;font-weight:bold;cursor:default;}
+.tel{display:block;position:relative;text-decoration:none;color:#00000d;background-color:#ff0;width:240px;margin:0 auto;text-align:center;padding:10px;font-size:2em;border-radius:25px;font-weight:bold;}
 .tel img{margin:0 0 -3px 0;width:20px;height:20px;}
 .tel span{text-decoration:underline;}
 #plus{position:relative;margin:0 auto;max-width:300px;}
